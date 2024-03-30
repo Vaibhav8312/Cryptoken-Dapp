@@ -1,3 +1,71 @@
+# Motoko-React Crypto Token
+
+Welcome to the Motoko-React Crypto Token project! This repository contains the code for creating a cryptocurrency token using Motoko for the backend (smart contract) and React for the frontend user interface. This project aims to provide a simple example of how to create a decentralized application (dApp) for managing and interacting with a custom cryptocurrency token.
+
+## Features
+
+- **Smart Contract**: Utilizes Motoko to define the behavior and functionality of the cryptocurrency token.
+- **Frontend Interface**: Developed with React to provide users with an intuitive interface for interacting with the token.
+- **Tokenomics**: Define the specifications of the token, including its name, symbol, total supply, and additional features such as token burning or minting capabilities.
+- **Blockchain Interaction**: Connects with the Internet Computer blockchain to deploy the smart contract and interact with it from the frontend.
+
+## Getting Started
+
+To get started with the project, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Navigate to the project directory.
+3. Install dependencies for both the backend and frontend:
+   ```
+   cd backend
+   npm install
+   cd ../frontend
+   npm install
+   ```
+4. Deploy the smart contract to the Internet Computer blockchain using the provided scripts and configuration.
+5. Start the frontend development server:
+   ```
+   cd ../frontend
+   npm start
+   ```
+
+## Contributing
+
+Contributions to this project are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request. Please ensure that your contributions adhere to the project's coding conventions and standards.
+
+
+## Acknowledgements
+
+- This project was inspired by the growing interest in blockchain technology and decentralized finance (DeFi).
+- Special thanks to the DFINITY Foundation for developing the Internet Computer blockchain and providing resources for developers.
+
+## Contact
+
+If you have any questions or suggestions regarding this project, please feel free to contact the project maintainer(s):
+
+- [Vaibhav](vaibhav1492.be21@chitkara.edu.in)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Check your Balance
 
 1. Find out your principal id:
